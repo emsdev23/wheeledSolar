@@ -1,0 +1,12 @@
+
+#Connection details
+connection :
+   url : http://61.95.130.226:3025/devicedata?startdatetime={}&enddatetime={}&datafrequency={} 
+   
+   X-API-KEY : vGgcBqzz2mfItHvDR6Kv79ZgnqvFPxfPbspzZyE8C34xrqrSASPW2n8vnCbc9Mcbvb3jUnMWBqE5gYJ9sCpbyegcrfKTnhfjJ2GtNeQRkf5GTmMzUwt45tn34Dn2ba43v84zagtQ3r7wXaBzHr8bqZAsKKUWawVEdEReFk7jJSYxveY7AZzuxq5jeysDDYqXjp9S9AuWEhXf4FYbSISd6bRbPDTcw5Qekp84hBUVmHN4Rsc52sAuvbDxbgnQfTXE 
+   
+   retry : 3
+   
+   wait_in_seconds : 10
+   
+   
